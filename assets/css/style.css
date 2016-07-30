@@ -14,7 +14,7 @@ div {
 	width: 960px;
 	margin: auto;
 }
-.header {
+.header1 {
 	height: 90px;
 	background-color: #ffffff;
 
@@ -43,4 +43,7 @@ div {
 .namecontainer {
 	float: left;
 	width: 50%;
+}
+.box {
+	background-color: white;
 }
