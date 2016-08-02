@@ -53,6 +53,22 @@ footer {
     padding: 40px;
     border-top: 8px solid #4aaaa5;
 }
+input[type=text] {
+    width: 562px;
+    padding: 8px 12px;
+    margin: 10px 0px 18px 0px;
+}
+input[value] {
+    font: 12px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #b8b8b8;
+}
+input[type=submit] {
+    font: 16px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border: none;
+    padding: 12px 32px;
+}
 
 /* Page top header */
 .header1 {
@@ -111,6 +127,18 @@ footer {
     margin: 40px 0px;
     padding: 32px 31px;
     float: left;
+}
+.box3 {
+    font: 16px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    padding-top: 30px;
+}
+.message {
+    width: 584px;
+    height: 200px;
+    margin: 10px 0px 18px 0px;
+    border-color: #dddddd;
+    
 }
 .midicon {
     padding: 0px 11px;
