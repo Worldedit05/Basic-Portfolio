@@ -133,6 +133,27 @@ input[type=submit] {
     color: #777777;
     padding-top: 30px;
 }
+.imagecontainer1, .imagecontainer2 {
+    margin: 40px 0px 16px 0px; 
+}
+.imagecontainer1 {
+    float: left;
+    width: 275px;
+    margin-right: 20px;
+    position: relative;
+}
+.imagecontainer2 {
+    float: left;
+    width: 275px;
+    margin-left: 20px;
+    position: relative;
+}
+.smallbanner {
+    width: 235px;
+    height: 20px;
+    text-align: center;
+    padding: 20px;
+}
 .message {
     width: 584px;
     height: 200px;
