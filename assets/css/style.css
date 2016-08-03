@@ -149,10 +149,15 @@ input[type=submit] {
     position: relative;
 }
 .smallbanner {
+    font: 20px 'Georgia', Times, Times New Roman, serif;
+    background-color: #4aaaa5;
+    color: #ffffff;
     width: 235px;
     height: 20px;
     text-align: center;
     padding: 20px;
+    position: absolute;
+    bottom: 10px;
 }
 .message {
     width: 584px;
