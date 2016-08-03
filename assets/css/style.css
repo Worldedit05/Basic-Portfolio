@@ -100,7 +100,13 @@ input[type=submit] {
     left: 18px;
 }
 .navlink {
-    padding: 18px;
+    padding: 23px;
+    margin: 0px -5px;
+}
+.navlink:hover {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 38px 23px 35px 23px;
 }
 .name {
     color: #ffffff;
