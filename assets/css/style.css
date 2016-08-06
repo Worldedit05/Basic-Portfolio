@@ -91,6 +91,7 @@ input[type=submit] {
     margin: 0px 0px 25px 0px;
     border-bottom: 1px solid #dddddd;
 }
+/* Navbar */
 .nav {
     font: 16px 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
@@ -139,6 +140,7 @@ input[type=submit] {
     color: #777777;
     padding-top: 30px;
 }
+/* Banners placed over the image thumbnails */
 .imagecontainer1, .imagecontainer2 {
     margin: 40px 0px 16px 0px; 
 }
@@ -172,9 +174,11 @@ input[type=submit] {
     border-color: #dddddd;
     
 }
+/* Needed to add some padding to the middle icon in the Connect with Me section */
 .midicon {
     padding: 0px 11px;
 }
+/* Sticky footer */
 .wrapper {
     min-height: 100%;
     height: auto !important;
